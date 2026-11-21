@@ -1,0 +1,12 @@
+[2026-11-20 21:51:03] Generados 50 registros aleatorios y ordenados por FC
+[2026-11-20 21:51:06] Validación: 0 inválidos de 50
+[2026-11-20 21:51:19] TXT guardado: datos_ordenados.txt (50 registros)
+[2026-11-20 21:51:19] CSV guardado: datos_ordenados.csv (50 registros)
+[2026-11-20 21:51:20] JSON exportado: datos_ordenados.json (50 registros)
+[2026-11-20 21:51:20] ERROR moviendo datos_ordenados.csv: [WinError 3] El sistema no puede encontrar la ruta especificada
+[2026-11-20 21:51:20] ERROR moviendo datos_ordenados.json: [WinError 3] El sistema no puede encontrar la ruta especificada
+[2026-11-20 21:51:20] ERROR moviendo datos_ordenados.txt: [WinError 3] El sistema no puede encontrar la ruta especificada
+[2026-11-20 21:51:40] ERROR: no existe el archivo C:\Users\USUARIO\Desktop\taller_biomedico\data\json\datos_ordenados.json
+[2026-11-20 21:52:11] ERROR en consulta: [Errno 2] No such file or directory: 'C:\\Users\\USUARIO\\Desktop\\taller_biomedico\\data\\json\\resultados_mongo.json'
+[2026-11-20 21:52:16] Programa finalizado
+[2026-11-20 22:09:40] Estructura de carpetas creada/verificada
